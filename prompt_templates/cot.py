@@ -1,7 +1,6 @@
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_google_vertexai import ChatVertexAI
 from dotenv import load_dotenv
-from IPython.display import display, Markdown
 
 load_dotenv()
 
